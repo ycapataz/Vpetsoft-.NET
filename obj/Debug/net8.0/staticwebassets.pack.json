@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\VpetsofttNet.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VpetsofttNet.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\Logo Software sin fondo.png",
+      "PackagePath": "staticwebassets\\Imegenes\\Logo Software sin fondo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\Logo Software.png",
+      "PackagePath": "staticwebassets\\Imegenes\\Logo Software.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\accept.png",
+      "PackagePath": "staticwebassets\\Imegenes\\accept.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\agendamiento.png",
+      "PackagePath": "staticwebassets\\Imegenes\\agendamiento.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\almacenista.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\almacenista.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\carrusel_imagen_1.png",
+      "PackagePath": "staticwebassets\\Imegenes\\carrusel_imagen_1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\carrusel_imagen_2.png",
+      "PackagePath": "staticwebassets\\Imegenes\\carrusel_imagen_2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\carrusel_imagen_3.png",
+      "PackagePath": "staticwebassets\\Imegenes\\carrusel_imagen_3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\carrusel_imagen_4.png",
+      "PackagePath": "staticwebassets\\Imegenes\\carrusel_imagen_4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\check.png",
+      "PackagePath": "staticwebassets\\Imegenes\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\comida 250.png",
+      "PackagePath": "staticwebassets\\Imegenes\\comida 250.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\cross.png",
+      "PackagePath": "staticwebassets\\Imegenes\\cross.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\dcotor250.png",
+      "PackagePath": "staticwebassets\\Imegenes\\dcotor250.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\error_404.gif",
+      "PackagePath": "staticwebassets\\Imegenes\\error_404.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\fiesta250.png",
+      "PackagePath": "staticwebassets\\Imegenes\\fiesta250.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\gato.png",
+      "PackagePath": "staticwebassets\\Imegenes\\gato.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\gato250.png",
+      "PackagePath": "staticwebassets\\Imegenes\\gato250.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\gif_error_404.gif",
+      "PackagePath": "staticwebassets\\Imegenes\\gif_error_404.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\gif_error_500.gif",
+      "PackagePath": "staticwebassets\\Imegenes\\gif_error_500.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\header.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\historia.png",
+      "PackagePath": "staticwebassets\\Imegenes\\historia.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\inventario.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\inventario.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\logo.png",
+      "PackagePath": "staticwebassets\\Imegenes\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\logo1.png",
+      "PackagePath": "staticwebassets\\Imegenes\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\muestra vpefsot.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\muestra vpefsot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\perrito.png",
+      "PackagePath": "staticwebassets\\Imegenes\\perrito.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\perrito2.png",
+      "PackagePath": "staticwebassets\\Imegenes\\perrito2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\perrito3.png",
+      "PackagePath": "staticwebassets\\Imegenes\\perrito3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\perro.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\perro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\perros250.png",
+      "PackagePath": "staticwebassets\\Imegenes\\perros250.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\recepcionista_perfil.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\recepcionista_perfil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\search-icon.png",
+      "PackagePath": "staticwebassets\\Imegenes\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\Imegenes\\veterinaria_3.jpg",
+      "PackagePath": "staticwebassets\\Imegenes\\veterinaria_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\Formulario_perfil_recep.css",
+      "PackagePath": "staticwebassets\\css\\Formulario_perfil_recep.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\Tabla_citas.css",
+      "PackagePath": "staticwebassets\\css\\Tabla_citas.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\agv_Formulario_cliente.css",
+      "PackagePath": "staticwebassets\\css\\agv_Formulario_cliente.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_Formulario_citas.css",
+      "PackagePath": "staticwebassets\\css\\avg_Formulario_citas.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_Formulario_empleados.css",
+      "PackagePath": "staticwebassets\\css\\avg_Formulario_empleados.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_Formulario_mascota.css",
+      "PackagePath": "staticwebassets\\css\\avg_Formulario_mascota.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_Tabla_ingresos.css",
+      "PackagePath": "staticwebassets\\css\\avg_Tabla_ingresos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_Tablas.css",
+      "PackagePath": "staticwebassets\\css\\avg_Tablas.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\avg_encabezado.css",
+      "PackagePath": "staticwebassets\\css\\avg_encabezado.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\consejos.css",
+      "PackagePath": "staticwebassets\\css\\consejos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\contactenos.css",
+      "PackagePath": "staticwebassets\\css\\contactenos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\juand_campos.css",
+      "PackagePath": "staticwebassets\\css\\juand_campos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\juand_tablas.css",
+      "PackagePath": "staticwebassets\\css\\juand_tablas.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\juandencabezado.css",
+      "PackagePath": "staticwebassets\\css\\juandencabezado.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\mapaSitio.css",
+      "PackagePath": "staticwebassets\\css\\mapaSitio.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\nosotros.css",
+      "PackagePath": "staticwebassets\\css\\nosotros.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\style_carrusel.css",
+      "PackagePath": "staticwebassets\\css\\style_carrusel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\style_error_404_y_500.css",
+      "PackagePath": "staticwebassets\\css\\style_error_404_y_500.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\stylecards.css",
+      "PackagePath": "staticwebassets\\css\\stylecards.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\stylefooter.css",
+      "PackagePath": "staticwebassets\\css\\stylefooter.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\ydcapa_campos_2.css",
+      "PackagePath": "staticwebassets\\css\\ydcapa_campos_2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\ydcapa_campos_3.css",
+      "PackagePath": "staticwebassets\\css\\ydcapa_campos_3.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\ydcapa_encabezado.css",
+      "PackagePath": "staticwebassets\\css\\ydcapa_encabezado.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\css\\ydcapa_tablas.css",
+      "PackagePath": "staticwebassets\\css\\ydcapa_tablas.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\js\\ydcapa_duplicar_campos.js",
+      "PackagePath": "staticwebassets\\js\\ydcapa_duplicar_campos.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.VpetsofttNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.VpetsofttNet.props",
+      "PackagePath": "build\\VpetsofttNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.VpetsofttNet.props",
+      "PackagePath": "buildMultiTargeting\\VpetsofttNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.VpetsofttNet.props",
+      "PackagePath": "buildTransitive\\VpetsofttNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
