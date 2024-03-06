@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\VpetsofttNet.csproj": {}
+    "C:\\Proyecto Formativo  .NET\\Vpetsoft-.NET\\VpetsofttNet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\VpetsofttNet.csproj": {
+    "C:\\Proyecto Formativo  .NET\\Vpetsoft-.NET\\VpetsofttNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\VpetsofttNet.csproj",
+        "projectUniqueName": "C:\\Proyecto Formativo  .NET\\Vpetsoft-.NET\\VpetsofttNet.csproj",
         "projectName": "VpetsofttNet",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\VpetsofttNet.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\VpetsofttNet\\obj\\",
+        "projectPath": "C:\\Proyecto Formativo  .NET\\Vpetsoft-.NET\\VpetsofttNet.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyecto Formativo  .NET\\Vpetsoft-.NET\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

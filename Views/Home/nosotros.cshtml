@@ -31,12 +31,11 @@
         </a>
         <!--lista de menu-->
         <ul>
-            <!--se agrega los valores para la lista del menu y al valor del inicio se le agrega la clase active-->
-            <li><a class="active" href="/HTML/index.html">Inicio</a></li>
-            <li><a href="/HTML/nosotros.html">¿Quienes somos?</a></li>
-            <li><a href="/HTML/modulos.html">Servicios</a></li>
-            <li><a href="/HTML/error_404.html">Red de atencion</a></li>
-            <li><a href="/HTML/contactenos.html">Contactenos</a></li>
+                    <li><a asp-controller="Home" asp-action="Index" class="active">Inicio</a></li>
+                    <li><a asp-controller="Home" asp-action="Nosotros">¿Quienes somos?</a></li>
+                    <li><a asp-controller="Home" asp-action="Modulos">Servicios</a></li>
+                    <li><a asp-controller="Home" asp-action="Error_404">Red de atencion</a></li>
+                    <li><a asp-controller="Home" asp-action="Contactenos">Contactenos</a></li>
         </ul>
     </nav>
     <br><br>

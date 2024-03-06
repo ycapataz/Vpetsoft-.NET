@@ -9,103 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VpetsofttNet
 build_property.RootNamespace = VpetsofttNet
-build_property.ProjectDir = C:\Users\user\RiderProjects\VpetsofttNet\
+build_property.ProjectDir = C:\Proyecto Formativo  .NET\Vpetsoft-.NET\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\RiderProjects\VpetsofttNet
+build_property.MSBuildProjectDirectory = C:\Proyecto Formativo  .NET\Vpetsoft-.NET
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_Formulario_citas.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_Formulario_citas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfRm9ybXVsYXJpb19jaXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_Formulario_cliente.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_Formulario_cliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfRm9ybXVsYXJpb19jbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_Formulario_empleados.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_Formulario_empleados.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfRm9ybXVsYXJpb19lbXBsZWFkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_Formulario_mascota.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_Formulario_mascota.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfRm9ybXVsYXJpb19tYXNjb3RhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_Formulario_perfil_recep.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_Formulario_perfil_recep.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfRm9ybXVsYXJpb19wZXJmaWxfcmVjZXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_tabla_ingresos.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_tabla_ingresos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfdGFibGFfaW5ncmVzb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/avg_tabla_notif_recepcion.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/avg_tabla_notif_recepcion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhdmdfdGFibGFfbm90aWZfcmVjZXBjaW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/contactenos.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/contactenos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0ZW5vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/error_404.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/error_404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlcnJvcl80MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/error_500.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/error_500.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlcnJvcl81MDAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/index.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/iniciosesion.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/iniciosesion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmljaW9zZXNpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/mapaSitio.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/mapaSitio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtYXBhU2l0aW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/modulos.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/modulos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxtb2R1bG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/nosotros.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/nosotros.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3NvdHJvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/olvcon.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/olvcon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvbHZjb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/registrarse.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/registrarse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3RyYXJzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Home/tabla_citas.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Home/tabla_citas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0YWJsYV9jaXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Shared/Error.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/_ViewImports.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/_ViewStart.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/RiderProjects/VpetsofttNet/Views/Shared/_Layout.cshtml]
+[C:/Proyecto Formativo  .NET/Vpetsoft-.NET/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7uu59n8z5d

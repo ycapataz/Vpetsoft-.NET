@@ -28,3 +28,34 @@ C:\Users\user\RiderProjects\VpetsofttNet\obj\Debug\net8.0\refint\VpetsofttNet.dl
 C:\Users\user\RiderProjects\VpetsofttNet\obj\Debug\net8.0\VpetsofttNet.pdb
 C:\Users\user\RiderProjects\VpetsofttNet\obj\Debug\net8.0\VpetsofttNet.genruntimeconfig.cache
 C:\Users\user\RiderProjects\VpetsofttNet\obj\Debug\net8.0\ref\VpetsofttNet.dll
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\appsettings.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.staticwebassets.runtime.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.exe
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.deps.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.runtimeconfig.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.dll
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\bin\Debug\net8.0\VpetsofttNet.pdb
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.AssemblyInfoInputs.cache
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.AssemblyInfo.cs
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.csproj.CoreCompileInputs.cache
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.RazorAssemblyInfo.cache
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.RazorAssemblyInfo.cs
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.sourcelink.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets\msbuild.VpetsofttNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.VpetsofttNet.props
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VpetsofttNet.props
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VpetsofttNet.props
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\scopedcss\bundle\VpetsofttNet.styles.css
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\scopedcss\projectbundle\VpetsofttNet.bundle.scp.css
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.dll
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\refint\VpetsofttNet.dll
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.pdb
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\VpetsofttNet.genruntimeconfig.cache
+C:\Proyecto Formativo  .NET\Vpetsoft-.NET\obj\Debug\net8.0\ref\VpetsofttNet.dll

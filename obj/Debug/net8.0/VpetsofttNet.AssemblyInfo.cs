@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VpetsofttNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3541d3f1b342fb897ca2cc566be7054190d84c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("VpetsofttNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VpetsofttNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
