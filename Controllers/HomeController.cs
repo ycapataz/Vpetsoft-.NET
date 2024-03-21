@@ -37,6 +37,47 @@ namespace VpetsofttNet.Controllers
         {
             return View();
         }
+
+        public IActionResult InicioSesion()
+        {
+            return View();
+        }
+        public IActionResult Registrarse()
+        {
+            return View();
+        }
+        public IActionResult Olvcon()
+        {
+            return View();
+        }
+        public IActionResult Avg_Tabla_Ingresos()
+        {
+            return View();
+        }
+        public IActionResult avg_Formulario_perfil_recep()
+        {
+            return View();
+        }
+        public IActionResult avg_tabla_notif_recepcion()
+        {
+            return View();
+        }
+        public IActionResult avg_Formulario_mascota()
+        {
+            return View();
+        }
+        public IActionResult avg_Formulario_empleados()
+        {
+            return View();
+        }
+        public IActionResult avg_Formulario_cliente()
+        {
+            return View();
+        }
+        public IActionResult avg_Formulario_citas()
+        {
+            return View();
+        }
         
     }
 }

@@ -1,3 +1,5 @@
+@model VpetsofttNet.Controllers.AppController
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -18,27 +20,27 @@
                     <span class="nav-item">Citas e Ingresos</span>
                 </a>
             </li>
-            <li><a href="/HTML/avg_tabla_ingresos.html">
+            <li><a asp-controller="Home" asp-action="Avg_Tabla_Ingresos">
                 <i class="fas fa-home"></i>
                 <span class="nav-item">Inicio</span>
             </a></li>
-            <li><a href="/HTML/avg_Formulario_cliente.html">
+            <li><a asp-controller="Home" asp-action="avg_Formulario_cliente">
                 <i class="fas fa-wallet"></i>
                 <span class="nav-item">Propietario / Mascota</span>
             </a></li>
-            <li><a href="/HTML/avg_Formulario_citas.html">
+            <li><a asp-controller="Home" asp-action="avg_Formulario_citas">
                 <i class="fas fa-chart-bar"></i>
                 <span class="nav-item">Citas</span>
             </a></li>
-            <li><a href="/HTML/avg_Formulario_empleados.html">
+            <li><a asp-controller="Home" asp-action="avg_Formulario_empleados">
                 <i class="fas fa-cog"></i>
                 <span class="nav-item">Equipo de trabajo</span>
             </a></li>
-            <li><a href="/HTML/avg_Formulario_perfil_recep.html">
+            <li><a asp-controller="Home" asp-action="avg_Formulario_perfil_recep">
                 <i class="fas fa-user"></i>
                 <span class="nav-item">Perfil</span>
             </a></li>
-            <li><a href="/HTML/avg_tabla_notif_recepcion.html">
+            <li><a asp-controller="Home" asp-action="avg_tabla_notif_recepcion">
                 <i class="fas fa-tasks"></i>
                 <span class="nav-item">Notificaciones</span>
             </a></li>
@@ -46,7 +48,7 @@
                 <i class="fas fa-question-circle"></i>
                 <span class="nav-item">Ayuda</span> 
             </a></li>-->
-            <li><a href="/HTML/index.html" class="logout">
+            <li><a asp-controller="Home" asp-action="Index">
                 <i class="fas fa-sign-out-alt"></i>
                 <span class="nav-item">Salir</span> 
             </a></li>
@@ -92,17 +94,20 @@
 					<input type="text" class="formulario__input" name="Apellidos_pro" id="Apellidos_pro" placeholder="Cifuentes Cardozo" readonly  value>
 				</div>
 			</div>
-           
             <div class="formulario__grupo">
                 <label>Mascota</label>
-                <select>
+                <select name="idMascota">
                     <option selected disabled>Seleccione mascota</option>
-                    <option>Zeta</option>
-                    <option>Haru</option>
-                    <option>Tanathos</option>
-                    <option>Sakura</option>
+                    @if (Model != null)
+                    {
+                        @Html.Raw(Model.ObtenerOpcionesMascotas())
+                    }
+                    else
+                    {
+                        <option value="">Error al cargar las mascotas</option>
+                    }
                 </select>
-            </div>	
+            </div>
             <div class="formulario__grupo" id="Fecha_cita">
 				<label for="Fecha_cita" class="formulario__label">Fecha</label>
 				<div class="formulario__grupo-input">

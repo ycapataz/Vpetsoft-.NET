@@ -1,3 +1,4 @@
+@model empleado
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>INICIO SESION</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/CSS/contactenos.css">
-    <link rel="stylesheet" href="/CSS/menu.css">
+    <link rel="stylesheet" href="../CSS/contactenos.css">
+    <link rel="stylesheet" href="../CSS/menu.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/Imegenes/logo1.png">
+    <link rel="shortcut icon" href="../Imegenes/logo1.png">
 </head>
 <body>
         <!--Etiqueta nav proporciona enlaces de navegación,-->
@@ -28,27 +29,29 @@
             <!--lista de menu-->
             <ul>
                 <!--se agrega los valores para la lista del menu y al valor del inicio se le agrega la clase active-->
-                <li><a class="active" href="/HTML/index.html">Inicio</a></li>
-                <li><a href="/HTML/nosotros.html">¿Quienes somos?</a></li>
-                <li><a href="/HTML/modulos.html">Servicios</a></li>
-                <li><a href="/HTML/error_404.html">Red de atencion</a></li>
-                <li><a href="/HTML/contactenos.html">Contactenos</a></li>
+                <li><a asp-controller="Home" asp-action="Index" class="active">Inicio</a></li>
+                <li><a asp-controller="Home" asp-action="Nosotros">¿Quienes somos?</a></li>
+                <li><a asp-controller="Home" asp-action="Modulos">Servicios</a></li>
+                <li><a asp-controller="Home" asp-action="Error_404">Red de atencion</a></li>
+                <li><a asp-controller="Home" asp-action="Contactenos">Contactenos</a></li>
             </ul>
         </nav>
         <br><br><br>
     <div class="contenedor">
-        <form action="" class="form">
+        <form asp-controller="IniciarSesion" asp-action="Login" class="form" method="post">
             <div class="form-header">
                 <h1 class="form-title">INICIO SESION</h1>
             </div>
             <label for="nombre" class="form-label">Correo electronico</label>
-            <input type="email" id="nombre" class="form-input" placeholder="Escriba su correo electronico" required>
+            <input type="email" id="nombre" name="email" class="form-input" placeholder="Escriba su correo electronico" required>
             <label for="contraseña" class="form-label">Contraseña</label>
-            <input type="password" id="contraseña" class="form-input" placeholder="Escriba su contraseña" required>
-            <br><br>
+            <input type="password" id="contraseña" name="password" class="form-input" placeholder="Escriba su contraseña" required>
+            <br>
+            <div style="color: red">@ViewBag.ErrorMessage</div>
+            <br>
             <input class="btn-submit" type="submit" value="Iniciar sesion">
-            <p><a href="/HTML/registrarse.html" class="form-label">¿No tiene cuenta? Registrese acá</a></p>
-            <p><a href="/HTML/olvcon.html" class="form-label">¿Olvido su contraseña?</a></p>
+            <p><a asp-action="Registrarse" class="form-label">¿No tiene cuenta? Registrese acá</a></p>
+            <p><a asp-action="Olvcon" class="form-label">¿Olvido su contraseña?</a></p>
         </form>
     </div> 
 </body>
